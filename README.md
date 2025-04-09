@@ -1,1 +1,1 @@
-## Don't be evil
+Don't be evil.
